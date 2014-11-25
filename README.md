@@ -1,6 +1,6 @@
 training
 ========
 
-For COP Class
+For COP Class Project
 
 View my live site at: http://Dhanco.github.io/trainingpage
